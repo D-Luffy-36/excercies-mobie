@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'OnboardingScreen.dart';
+import 'on_boarding_screen.dart';
 
 
 

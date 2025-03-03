@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'OnboardingPage.dart';
+import 'on_boarding_page.dart';
 
 // StatefulWidget giúp thay đổi giao diện khi người dùng chuyển trang.
 

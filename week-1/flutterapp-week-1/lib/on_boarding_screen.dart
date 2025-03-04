@@ -32,7 +32,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
               },
               children: [
                 OnboardingPage(
-                  image: 'assets/WellComeScreen/wc1.jpg',
+                  image: 'assets/WellComeScreen/wc1.svg',
                   title: 'Welcome To Click & Buy',
                 ),
                 OnboardingPage(

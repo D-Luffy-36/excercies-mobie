@@ -15,11 +15,22 @@ class OnboardingPage extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Image.asset(image, height: 250),
+          ClipOval(
+            child: Image.asset(
+              image,
+              height: 250,
+              width: 250, // Đặt width bằng height để giữ hình tròn
+              fit: BoxFit.cover,
+            ),
+          ),
           SizedBox(height: 20),
           Text(
             title,
-            style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
+            style: TextStyle(fontSize: 22,
+                fontWeight: FontWeight.bold,
+                color: Colors.deepOrange
+
+            ),
             textAlign: TextAlign.center,
           ),
           if (description != null) ...[

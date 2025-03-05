@@ -3,29 +3,24 @@ EX1.
 website hoặc back-end java để trang trải cuộc sống tại thành phố HCM.
 
 EX2.
-	
 	Mobile trong 10 năm tới sẽ phát triển mạnh mẽ vì:
 	
 1. Số lượng người dùng di động ngày càng tăng
-
 	Dân số thế giới tiếp tục tăng, hầu như ai cũng sở hữu ít nhất một smartphone.
 	Thiết bị di động trở thành công cụ không thể thiếu trong cuộc sống hàng ngày.
 	
 2. Sự bùng nổ của mạng xã hội (Social Media)
-
 	Các nền tảng gây nghiện như TikTok, Facebook, Instagram, X (Twitter), Reddit đang thu hút hàng tỷ người dùng.
 	Thuật toán cá nhân hóa giúp giữ chân người dùng lâu hơn.
 	
 3. Thị trường game mobile phát triển mạnh
-
 	Các tựa game đình đám như PUBG Mobile, Liên Quân Mobile, Genshin Impact, Free Fire có hàng triệu người chơi mỗi ngày.
 	Công nghệ đồ họa & AI giúp trải nghiệm game trên mobile ngày càng hấp dẫn.
 	
 4. Sự bùng nổ của thương mại điện tử (E-commerce)
-
 	Các nền tảng như Shopee, Lazada, TikTok Shop phát triển mạnh nhờ xu hướng mua sắm trực tuyến.
 	Livestream bán hàng & Flash Sale kích thích nhu cầu tiêu dùng.
-5. Nhu cầu xem video & giải trí không ngừng tăng
 
+5. Nhu cầu xem video & giải trí không ngừng tăng
 	Các ứng dụng như YouTube, Netflix, TikTok, Spotify tiếp tục mở rộng nội dung.
 	Kết nối 5G, 6G giúp xem video với chất lượng cao, không bị gián đoạn.
